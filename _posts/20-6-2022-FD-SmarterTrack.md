@@ -27,7 +27,7 @@ Today we are releasing case [DIVD-2021-00029](/DIVD-2021-00029) and are disclosi
 
 Impact: When this attack is performed, the attacker can do any action that the user also can do. Fortunately, the attacker can't access any password from this attack since the credentials are protected. But the attacker can still see sensitive data and modify this.
 
-*Input image 1*
+[*Input image 1*](https://user-images.githubusercontent.com/57531297/183418329-8e520927-8d22-4af9-8eab-496481f13ad9.png)
 
 # Description: A Direct Object Access vulnerability in SmarterTools SmarterTrack leads to information disclosure.
 
