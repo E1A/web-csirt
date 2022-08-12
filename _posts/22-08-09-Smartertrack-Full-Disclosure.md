@@ -1,3 +1,5 @@
+redirect_from:
+- /https://github.com/DIVD-NL/web-csirt/blob/main/_posts/22-08-09-Smartertrak-Full-Disclosure.md
 ---
 layout: post
 title: SmarterTrack Full disclosure
